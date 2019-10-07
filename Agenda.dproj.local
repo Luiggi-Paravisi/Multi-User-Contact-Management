@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/18 13:27:04.000.320,=C:\Users\lpschleder\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/20 13:56:47.000.482,=C:\Users\lpschleder\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/20 13:57:28.000.551,=C:\Users\lpschleder\Desktop\zzz\ABOUT.pas</Transaction>
+    <Transaction>2019/05/20 13:57:28.000.658,=C:\Users\lpschleder\Desktop\zzz\UnitLogin2.pas</Transaction>
+    <Transaction>2019/05/20 13:57:28.000.808,=C:\Users\lpschleder\Desktop\zzz\UntAgenda.pas</Transaction>
+    <Transaction>2019/05/20 13:57:36.000.286,C:\Users\lpschleder\Desktop\zzz\Agenda.dproj=C:\Users\lpschleder\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ABOUT.pas"/>
+    <File Path="ABOUT.dfm"/>
+    <File Path="UnitLogin2.pas"/>
+    <File Path="UnitLogin2.dfm"/>
+    <File Path="UntAgenda.pas"/>
+    <File Path="UntAgenda.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
